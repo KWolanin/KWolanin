@@ -19,9 +19,6 @@ I'm always open to new technologies. Every project teaches me something new and 
 - GIT version control system
 - and more
 
-
-I have a good understanding of English 🇬🇧, especially when it comes to reading and writing technical documentation — I work with it daily without issues. However, spoken English is still a challenge for me, so I’d feel most comfortable working in a Polish-speaking team 🇵🇱.
-
 After work, I usually spend my time playing games. My favorite is Skyrim — especially with lots of mods that make the experience even more fun. I also enjoy Stardew Valley, Civilization V, Mount and Blade, and Dishonored. I'm looking forward to upgrading my PC so I can finally play some of the latest titles ;) 🎮
 
 My second big passion is writing fanfiction. It’s a creative and engaging hobby that I’ve been doing since I was a kid, and it still brings me a lot of joy and satisfaction. 📝
