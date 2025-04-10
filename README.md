@@ -1,10 +1,10 @@
-## Hi, I'm Kasia
+## Hi, I'm Kasia, Java-based FullStack
 
 I'm that family member everyone calls when they need help installing a printer. Even though hardware isn't really my thing, technology has always been a big part of my life. I'm all about continuous learning, and I believe that learning is like climbing endless mountains — there's always another peak beyond the one you've just reached. 🌄🔝
 
 I graduated with an **engineering degree in Computer Science** from the **University College of Enterprise and Administration**, Lublin. My thesis was titled "Using the @PostConstruct annotation to load data". During my studies, I discovered the programming language that now forms the foundation of my professional work — **Java**. I also got familiar with the **Spring and Hibernate** frameworks, which allow me to build efficient and reliable backends. 💻
 
-At first, I planned to become a Backend Developer, but I got into an internship program that prepared me for a **Full Stack Developer** role. There, I learned **Vue.js** (both version 2 and 3), improved my skills in **JavaScript and TypeScript**, and gained the ability to create full web applications. I spent almost three years in this role, growing my skills, and I’ve come to enjoy frontend development just as much as backend. I’m proud that I can take a feature from idea to completion on my own. 💡
+I got into an internship program that prepared me for a **Full Stack Developer** role. There, I learned **Vue.js** (both version 2 and 3), improved my skills in **JavaScript and TypeScript**, and gained the ability to create full web applications. I spent almost three years in this role, growing my skills, and I’ve come to enjoy frontend development just as much as backend. I’m proud that I can take a feature from idea to completion on my own. 💡
 
 I'm always open to new technologies. Every project teaches me something new and helps me reinforce good habits. My current personal projects include:
 - [Vasara](https://github.com/KWolanin/Vasara) – a minimalist web app for publishing and reading stories and fanfiction 📘 - **~85%** ready
