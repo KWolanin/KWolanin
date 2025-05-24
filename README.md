@@ -10,13 +10,13 @@ I'm always open to new technologies. Every project teaches me something new and 
 - [Vasara](https://github.com/KWolanin/Vasara) – a minimalist web app for publishing and reading stories and fanfiction 📘. Stack: Java (backend), Vue.js (frontend), PostgresSQL (database), RabbitMQ (queues). 
 - [Lerni.app](https://github.com/KWolanin/lerni.app) – a minimalist, customizable daily learning dashboard with a todo list, pomodoro timer, and focus-friendly music and other widgets to help with focus and organization 📚. Stack: Vue.js (code), Firebase (NO-SQL database).
 
-Currently gaining experience with **React** and **Java microservices**."
 
 **My tech stack includes:**
 - Java
 - Spring Boot, Spring Data, Spring Web
 - JavaScript
 - Vue.js (2, 3, Quasar Framework, Vuex/Pinia, Vue Router)
+- React
 - Databases: Oracle and PostgreSQL
 - GIT version control system
 - and more
