@@ -1,4 +1,4 @@
-## Hi, I'm Kasia, Java-based FullStack developer
+## Hi, I'm Kasia, Software Developer
 
 I'm that family member everyone calls when they need help installing a printer. Even though hardware isn't really my thing, technology has always been a big part of my life. I'm all about continuous learning, and I believe that learning is like climbing endless mountains — there's always another peak beyond the one you've just reached. 🌄🔝
 
