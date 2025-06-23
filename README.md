@@ -18,7 +18,8 @@ I'm always open to new technologies. Every project teaches me something new and 
 - JavaScript
 - Vue.js (2, 3, Quasar Framework, Vuex/Pinia, Vue Router)
 - React
-- Databases: Oracle and PostgreSQL
+- Next.js
+- Databases: Oracle and PostgreSQL, NO-SQL like Firebase or MongoDB
 - GIT version control system
 - and more
 
