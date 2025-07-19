@@ -16,9 +16,10 @@ I'm always open to new technologies. Every project teaches me something new and 
 - Java
 - Spring Boot, Spring Data, Spring Web
 - JavaScript
-- Vue.js (2, 3, Quasar Framework, Vuex/Pinia, Vue Router)
+- Vue.js
 - React
 - Next.js
+- Quasar
 - Databases: Oracle and PostgreSQL, NO-SQL like Firebase or MongoDB
 - GIT version control system
 - and more
